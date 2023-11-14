@@ -56,7 +56,7 @@ background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
     text-align: center;
 }
 
-.servico {
+.sabores {
     display: flex;
     width: 100vw;
     height: 300px;
@@ -64,7 +64,7 @@ background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
     align-items: center;
 }
 
-.item-servico{
+.item-sabores{
     display: flex;
     width: 15%;
     height: 290px;
